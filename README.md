@@ -1,7 +1,3 @@
-Here's a professional and comprehensive **README** file design for your "Project 2" based on the exploratory data analysis (EDA) content:
-
----
-
 # Exploratory Data Analysis (EDA) Project
 
 ## Overview
